@@ -5,7 +5,6 @@ dist
 .idea
 .yarn
 demo/.env
-.env
 
 #yarn
 .pnp.*
