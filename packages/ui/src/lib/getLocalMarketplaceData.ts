@@ -1,4 +1,4 @@
-import { getClient } from '@reservoir0x/reservoir-sdk'
+import { getClient } from '@seaport/reservoir-sdk'
 
 export default () => {
   const client = getClient()

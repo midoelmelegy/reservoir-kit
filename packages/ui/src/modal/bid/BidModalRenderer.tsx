@@ -18,7 +18,7 @@ import {
 } from 'wagmi'
 
 import { constants } from 'ethers'
-import { Execute, ReservoirClientActions } from '@reservoir0x/reservoir-sdk'
+import { Execute, ReservoirClientActions } from '@seaport/reservoir-sdk'
 import { ExpirationOption } from '../../types/ExpirationOption'
 import defaultExpirationOptions from '../../lib/defaultExpirationOptions'
 import { formatBN } from '../../lib/numbers'

@@ -1,6 +1,6 @@
 import { useContext } from 'react'
 import { ThemeSwitcherContext } from '../pages/_app'
-import { lightTheme, darkTheme } from '@reservoir0x/reservoir-kit-ui'
+import { lightTheme, darkTheme } from '@seaport/reservoir-kit-ui'
 import { useTheme } from 'next-themes'
 
 const getDemoThemeFromOption = (option: string) => {

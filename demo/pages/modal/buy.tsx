@@ -1,5 +1,5 @@
 import { NextPage } from 'next'
-import { BuyModal } from '@reservoir0x/reservoir-kit-ui'
+import { BuyModal } from '@seaport/reservoir-kit-ui'
 import { ConnectButton } from '@rainbow-me/rainbowkit'
 import ThemeSwitcher from 'components/ThemeSwitcher'
 import { useState } from 'react'

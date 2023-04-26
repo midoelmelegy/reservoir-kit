@@ -533,7 +533,7 @@ export function EditBidModal({
                       title={
                         stepData?.currentStepItem.txHash
                           ? 'Finalizing on blockchain'
-                          : 'Approve Reservoir Oracle to update the offer'
+                          : 'Approve SeaPort Oracle to update the offer'
                       }
                       txHash={stepData?.currentStepItem.txHash}
                     />

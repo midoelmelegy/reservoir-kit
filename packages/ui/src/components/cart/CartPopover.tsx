@@ -487,7 +487,7 @@ export function CartPopover({
                       mt: 26,
                     }}
                   >
-                    <Anchor href="https://reservoir.tools/" target="_blank">
+                    <Anchor href="https://www.seaport.market/" target="_blank">
                       <Text
                         style="body3"
                         color="subtle"

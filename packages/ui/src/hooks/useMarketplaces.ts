@@ -1,4 +1,4 @@
-import { paths } from '@reservoir0x/reservoir-sdk'
+import { paths } from '@seaport/reservoir-sdk'
 import getLocalMarketplaceData from '../lib/getLocalMarketplaceData'
 import { useEffect, useState } from 'react'
 import useReservoirClient from './useReservoirClient'

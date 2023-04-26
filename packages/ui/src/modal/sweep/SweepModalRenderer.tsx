@@ -19,7 +19,7 @@ import {
   Execute,
   ReservoirChain,
   ReservoirClientActions,
-} from '@reservoir0x/reservoir-sdk'
+} from '@seaport/reservoir-sdk'
 import { toFixed } from '../../lib/numbers'
 import { formatUnits } from 'ethers/lib/utils.js'
 import { UseBalanceToken } from '../../types/wagmi'

@@ -1,4 +1,4 @@
-import { paths } from '@reservoir0x/reservoir-sdk'
+import { paths } from '@seaport/reservoir-sdk'
 import useSWR, { SWRConfiguration } from 'swr'
 import useReservoirClient from './useReservoirClient'
 

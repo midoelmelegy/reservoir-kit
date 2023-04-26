@@ -20,7 +20,7 @@ import {
 } from '../../hooks'
 import { useAccount, useSigner } from 'wagmi'
 
-import { Execute, ReservoirClientActions } from '@reservoir0x/reservoir-sdk'
+import { Execute, ReservoirClientActions } from '@seaport/reservoir-sdk'
 import { formatUnits, parseUnits } from 'ethers/lib/utils.js'
 import dayjs from 'dayjs'
 import { Marketplace } from '../../hooks/useMarketplaces'

@@ -6,7 +6,7 @@
 ### Installing ReservoirKit
 
 ```
-yarn add @reservoir0x/reservoir-kit-ui
+yarn add @seaport/reservoir-kit-ui
 ```
 
 Also make sure to install the peer dependencies required by ReservoirKit if your application doesn't already include them:

@@ -17,7 +17,7 @@ import {
   mainnet,
   goerli,
 } from 'wagmi'
-import { Execute } from '@reservoir0x/reservoir-sdk'
+import { Execute } from '@seaport/reservoir-sdk'
 import { ExpirationOption } from '../../types/ExpirationOption'
 import expirationOptions from '../../lib/defaultExpirationOptions'
 import dayjs from 'dayjs'

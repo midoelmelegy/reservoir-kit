@@ -1,4 +1,4 @@
-import { useTokenActivity } from '@reservoir0x/reservoir-kit-ui'
+import { useTokenActivity } from '@seaport/reservoir-kit-ui'
 import { ConnectButton } from '@rainbow-me/rainbowkit'
 import { NextPage } from 'next'
 import { useEffect } from 'react'

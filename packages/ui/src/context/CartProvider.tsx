@@ -5,7 +5,7 @@ import {
   isOpenSeaBanned,
   paths,
   setParams,
-} from '@reservoir0x/reservoir-sdk'
+} from '@seaport/reservoir-sdk'
 import { useListings, useReservoirClient, useTokens } from '../hooks'
 import { getChainCurrency } from '../hooks/useChainCurrency'
 import { defaultFetcher } from '../lib/swr'

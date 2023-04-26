@@ -3,7 +3,7 @@ import useReservoirClient from './useReservoirClient'
 import { Marketplace } from './useMarketplaces'
 import { Listings } from '../modal/list/ListModalRenderer'
 import { useSigner } from 'wagmi'
-import { Execute } from '@reservoir0x/reservoir-sdk'
+import { Execute } from '@seaport/reservoir-sdk'
 
 export default function (
   marketplaces: Marketplace[],

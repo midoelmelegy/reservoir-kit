@@ -382,7 +382,7 @@ export function EditListingModal({
                       title={
                         stepData?.currentStepItem.txHash
                           ? 'Finalizing on blockchain'
-                          : 'Approve Reservoir Oracle to update the listing'
+                          : 'Approve SeaPort Oracle to update the listing'
                       }
                       txHash={stepData?.currentStepItem.txHash}
                     />

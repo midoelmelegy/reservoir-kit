@@ -21,8 +21,8 @@ import {
   darkTheme as defaultTheme,
   ReservoirKitTheme,
   CartProvider,
-} from '@reservoir0x/reservoir-kit-ui'
-import { LogLevel } from '@reservoir0x/reservoir-sdk'
+} from '@seaport/reservoir-kit-ui'
+import { LogLevel } from '@seaport/reservoir-sdk'
 const API_KEY = process.env.NEXT_PUBLIC_API_KEY
 const CHAIN_ID = Number(process.env.NEXT_PUBLIC_CHAIN_ID || 1)
 const SOURCE = process.env.NEXT_PUBLIC_SOURCE || 'reservoirkit.demo'

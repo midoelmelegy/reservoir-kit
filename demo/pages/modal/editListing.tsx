@@ -1,5 +1,5 @@
 import { NextPage } from 'next'
-import { EditListingModal } from '@reservoir0x/reservoir-kit-ui'
+import { EditListingModal } from '@seaport/reservoir-kit-ui'
 import { ConnectButton } from '@rainbow-me/rainbowkit'
 import ThemeSwitcher from 'components/ThemeSwitcher'
 import { useState, useEffect } from 'react'

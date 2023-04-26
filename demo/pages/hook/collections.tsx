@@ -1,5 +1,5 @@
 import { NextPage } from 'next'
-import { useCollections } from '@reservoir0x/reservoir-kit-ui'
+import { useCollections } from '@seaport/reservoir-kit-ui'
 import { ConnectButton } from '@rainbow-me/rainbowkit'
 import { useInView } from 'react-intersection-observer'
 import { useEffect } from 'react'

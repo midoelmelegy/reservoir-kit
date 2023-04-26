@@ -317,13 +317,13 @@ export function ListModal({
                         <Text style="body3">{localMarketplace?.name}</Text>
                         <Flex css={{ alignItems: 'center', gap: 8 }}>
                           <Text style="body3" color="subtle" as="div">
-                            on Reservoir
+                            www.seaport.market
                           </Text>
                           <InfoTooltip
                             side="bottom"
                             width={200}
                             content={
-                              'Listings made on this marketplace will be distributed across the reservoir ecosystem'
+                              'The ultimate NFT marketplace'
                             }
                           />
                         </Flex>

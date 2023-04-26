@@ -1,5 +1,5 @@
 import { NextPage } from 'next'
-import { BidModal } from '@reservoir0x/reservoir-kit-ui'
+import { BidModal } from '@seaport/reservoir-kit-ui'
 import { ConnectButton } from '@rainbow-me/rainbowkit'
 import ThemeSwitcher from 'components/ThemeSwitcher'
 import { ComponentPropsWithoutRef, PropsWithoutRef, useState } from 'react'

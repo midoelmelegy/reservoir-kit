@@ -8,7 +8,7 @@ import React, {
   ComponentPropsWithoutRef,
   useCallback,
 } from 'react'
-import { ReservoirClientOptions } from '@reservoir0x/reservoir-sdk'
+import { ReservoirClientOptions } from '@seaport/reservoir-sdk'
 import { ReservoirKitTheme, darkTheme } from './themes'
 import { ReservoirClientProvider } from './ReservoirClientProvider'
 import { SWRConfig } from 'swr'

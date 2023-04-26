@@ -23,7 +23,7 @@ import {
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import TokenLineItem from '../TokenLineItem'
 import { BuyModalRenderer, BuyStep, BuyModalStepData } from './BuyModalRenderer'
-import { Execute } from '@reservoir0x/reservoir-sdk'
+import { Execute } from '@seaport/reservoir-sdk'
 import ProgressBar from '../ProgressBar'
 import { useNetwork } from 'wagmi'
 import QuantitySelector from '../QuantitySelector'

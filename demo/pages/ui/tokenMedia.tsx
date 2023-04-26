@@ -1,5 +1,5 @@
 import { NextPage } from 'next'
-import { TokenMedia, useTokens } from '@reservoir0x/reservoir-kit-ui'
+import { TokenMedia, useTokens } from '@seaport/reservoir-kit-ui'
 import { useState } from 'react'
 import ThemeSwitcher from 'components/ThemeSwitcher'
 

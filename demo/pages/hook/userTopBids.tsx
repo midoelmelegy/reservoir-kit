@@ -1,5 +1,5 @@
 import { NextPage } from 'next'
-import { useUserTopBids } from '@reservoir0x/reservoir-kit-ui'
+import { useUserTopBids } from '@seaport/reservoir-kit-ui'
 import { ConnectButton } from '@rainbow-me/rainbowkit'
 import { useInView } from 'react-intersection-observer'
 import { createRef, useEffect, useState } from 'react'

@@ -1,5 +1,5 @@
 import { NextPage } from 'next'
-import { SweepModal } from '@reservoir0x/reservoir-kit-ui'
+import { SweepModal } from '@seaport/reservoir-kit-ui'
 import { ConnectButton } from '@rainbow-me/rainbowkit'
 import ThemeSwitcher from 'components/ThemeSwitcher'
 import { useState } from 'react'

@@ -19,7 +19,7 @@ import { Cart, CheckoutStatus } from '../../context/CartProvider'
 import { useCoinConversion } from '../../hooks'
 import SigninStep from '../../modal/SigninStep'
 import { ApprovalCollapsible } from '../../modal/ApprovalCollapsible'
-import { Execute } from '@reservoir0x/reservoir-sdk'
+import { Execute } from '@seaport/reservoir-sdk'
 
 const Title = styled(DialogPrimitive.Title, {
   margin: 0,
@@ -341,7 +341,7 @@ export function CartCheckoutModal({
                     borderBottomLeftRadius: '$borderRadius',
                   }}
                 >
-                  <Anchor href="https://reservoir.tools/" target="_blank">
+                  <Anchor href="https://www.seaport.market/" target="_blank">
                     <Text
                       style="body3"
                       css={{
